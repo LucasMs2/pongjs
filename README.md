@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img alt="Preview" src="https://user-images.githubusercontent.com/126428828/224464748-9498fe0a-7b53-4def-b10f-0ed279510aa7.PNG>
+  <img alt="Preview" src="https://github.com/LucasMs2/pongjs/issues/1#issue-1619876760"
 </p>
 
 <br>
